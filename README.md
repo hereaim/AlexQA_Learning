@@ -24,5 +24,5 @@
 - [Postman Collections](https://github.com/gremoriru/Postman)
 
 ### Follow Me
-[![Header](https://img.shields.io/badge/vk-ВКонтакте-blue)](vk.com/aimhere)
+[![Header](https://img.shields.io/badge/vk-ВКонтакте-blue)](https://vk.com/aimhere)
 
