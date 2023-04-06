@@ -1,4 +1,4 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)]()
+[![Header](https://github.com/gremoriru/GremoriRU/tree/main/assets/qa_eng.jpg)]()
 ## I am studying QA, as well as taking various courses to achieve my goal in understanding this profession
 
 
