@@ -1,5 +1,5 @@
 [![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)]()
-## I'm learning QA Engineer. 
+## I am studying QA, as well as taking various courses to achieve my goal in understanding this profession
 
 
 
