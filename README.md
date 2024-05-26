@@ -12,7 +12,7 @@
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=8cc4d7)
 
 ### Testing Documentation
@@ -22,7 +22,7 @@
 - [Bug-Reports](https://github.com/gremoriru/Bug-reports)
 - [SQL Queries](https://github.com/gremoriru/SQL)
 - [Postman Collections](https://github.com/gremoriru/Postman)
-- [AutoTest](https://github.com/hereaim/autotest/tree/main)
+- [AutoTest/Python_Learning](https://github.com/hereaim/autotest/tree/main)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/vk-ВКонтакте-blue)](https://vk.com/aimhere)
