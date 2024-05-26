@@ -1,4 +1,4 @@
-<p align="center">[![Header](https://github.com/gremoriru/GremoriRU/blob/main/assets/qa_eng.jpg)]</p>
+<p align="center">[![Header](https://github.com/gremoriru/AlexQA_Learning/blob/main/assets/qa_eng.jpg)]</p>
 ## Это мой репозиторий всякой всячины в QA-профессии, начиная от обычных тест-кейсов в учебе, заканчивая автотестами и кодингом на Pytnon
 
 
