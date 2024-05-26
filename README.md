@@ -21,7 +21,7 @@
 - [Bug-Reports](https://github.com/hereaim/Bug-reports)
 - [SQL Queries](https://github.com/hereaim/SQL)
 - [Postman Collections](https://github.com/hereaim/Postman)
-- [AutoTest/Python_Learning](https://github.com/hereaim/autotest)
+- [AutoTest/Python_Learning](https://github.com/hereaim/autotest_coding)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/vk-ВКонтакте-blue)](https://vk.com/aimhere)
