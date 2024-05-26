@@ -1,4 +1,5 @@
 <p align="center"> <img src='https://github.com/hereaim/AlexQA_Learning/blob/main/assets/qa_eng.jpg'></p>
+
 ## Это мой репозиторий всякой всячины в QA-профессии, начиная от обычных тест-кейсов в учебе, заканчивая автотестами и кодингом на Pytnon
 
 
@@ -15,13 +16,12 @@
 ![Header](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=8cc4d7)
 
 ### Testing Documentation
-
-- [Checklists](https://github.com/gremoriru/Checklist)
-- [Test-Suites and Test-Cases](https://github.com/gremoriru/Test-case)
-- [Bug-Reports](https://github.com/gremoriru/Bug-reports)
-- [SQL Queries](https://github.com/gremoriru/SQL)
-- [Postman Collections](https://github.com/gremoriru/Postman)
-- [AutoTest/Python_Learning](https://github.com/hereaim/autotest/tree/main)
+- [Checklists](https://github.com/hereaim/Checklist)
+- [Test-Suites and Test-Cases](https://github.com/hereaim/Test-case)
+- [Bug-Reports](https://github.com/hereaim/Bug-reports)
+- [SQL Queries](https://github.com/hereaim/SQL)
+- [Postman Collections](https://github.com/hereaim/Postman)
+- [AutoTest/Python_Learning](https://github.com/hereaim/autotest)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/vk-ВКонтакте-blue)](https://vk.com/aimhere)
